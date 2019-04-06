@@ -16,3 +16,7 @@ Build a central repository of historic facts and events in general related with 
 
 - Backend APIs
 - Database Design
+
+## Project Contacts:
+
+You can reach us all here: https://keybase.io/team/berserktechopen at #venezuela-timeline channel
